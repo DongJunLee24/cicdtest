@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myweb2
-        image: dongjunlee24/cicdtest:green
+        image: dongjunlee24/cicdtest:green2
         ports:
         - containerPort: 80
 
